@@ -9,7 +9,7 @@ def main():
     st.write("Name: John Mark Ghil T. Agam")
     st.write("Section: CPE32S5")
     st.write("Instructor: Dr. Jonathan Taylar")
-    st.title("Class Weather ( Motor/Car)")
+    st.title("Motor and Car ( Motor/Car)")
     st.write("This will classifies or detects an image if it is a Car or Motor using a pre-trained convolutional neural network model.")
    
     @st.cache_resource
